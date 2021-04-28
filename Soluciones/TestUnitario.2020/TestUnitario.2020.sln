@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario.2020", "TestUnitario.2020\TestUnitario.2020.csproj", "{D7E7B47F-2294-46B4-9877-12A840CC2CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{C46318C0-5795-4E90-9265-D864F8A07E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E7B47F-2294-46B4-9877-12A840CC2CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E7B47F-2294-46B4-9877-12A840CC2CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E7B47F-2294-46B4-9877-12A840CC2CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E7B47F-2294-46B4-9877-12A840CC2CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46318C0-5795-4E90-9265-D864F8A07E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46318C0-5795-4E90-9265-D864F8A07E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46318C0-5795-4E90-9265-D864F8A07E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46318C0-5795-4E90-9265-D864F8A07E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8CEF91-6515-4E3A-9FFF-1385405BD0A4}
+	EndGlobalSection
+EndGlobal

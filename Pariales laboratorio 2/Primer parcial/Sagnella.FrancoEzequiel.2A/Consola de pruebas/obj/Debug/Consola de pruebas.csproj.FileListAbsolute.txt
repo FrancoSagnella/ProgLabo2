@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\bin\Debug\Consola de pruebas.exe.config
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\bin\Debug\Consola de pruebas.exe
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\bin\Debug\Consola de pruebas.pdb
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\obj\Debug\Consola de pruebas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\obj\Debug\Consola de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\obj\Debug\Consola de pruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\obj\Debug\Consola de pruebas.exe
+C:\Users\Franco\Desktop\Sagnella.FrancoEzequiel.2A\Consola de pruebas\obj\Debug\Consola de pruebas.pdb

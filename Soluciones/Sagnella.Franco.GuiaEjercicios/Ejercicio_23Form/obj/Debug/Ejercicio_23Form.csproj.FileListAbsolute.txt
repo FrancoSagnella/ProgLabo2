@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\bin\Debug\Ejercicio_23Form.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\bin\Debug\Ejercicio_23Form.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\bin\Debug\Ejercicio_23Form.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.Form1.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.Properties.Resources.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\bin\Debug\Ejercicio_23Monedas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\bin\Debug\Ejercicio_23Monedas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Form\obj\Debug\Ejercicio_23Form.csproj.CopyComplete

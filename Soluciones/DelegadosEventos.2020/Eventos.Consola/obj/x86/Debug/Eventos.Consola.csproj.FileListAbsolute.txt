@@ -1,0 +1,45 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\obj\x86\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\bin\Debug\Eventos.Conexion.Estatica.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\bin\Debug\Eventos.Conexion.Estatica.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola\obj\x86\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\bin\Debug\Eventos.Consola.exe.config
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\bin\Debug\Eventos.Consola.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\bin\Debug\Eventos.Consola.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\bin\Debug\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\bin\Debug\Eventos.Entidades.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\obj\x86\Debug\Eventos.Consola.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\obj\x86\Debug\Eventos.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\obj\x86\Debug\Eventos.Consola.csproj.CopyComplete
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\obj\x86\Debug\Eventos.Consola.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola\obj\x86\Debug\Eventos.Consola.pdb

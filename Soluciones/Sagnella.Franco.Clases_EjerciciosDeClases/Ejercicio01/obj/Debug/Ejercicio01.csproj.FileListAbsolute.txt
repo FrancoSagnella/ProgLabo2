@@ -1,0 +1,7 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\obj\Debug\Ejercicio01.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Ejercicio01\obj\Debug\Ejercicio01.pdb

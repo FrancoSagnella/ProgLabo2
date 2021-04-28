@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\bin\Debug\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\bin\Debug\Interfaces.Ejemplo.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\obj\Debug\Interfaces.Ejemplo.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\obj\Debug\Interfaces.Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\obj\Debug\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces.Ejemplo\obj\Debug\Interfaces.Ejemplo.pdb

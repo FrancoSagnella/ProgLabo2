@@ -1,0 +1,34 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\bin\Debug\01_DataTable.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\bin\Debug\01_DataTable.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmABM.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\01_DataTable.exe.config
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\bin\Debug\EntidadesBD.dll.config
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.csproj.CopyComplete
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.exe
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\_02_DataAdapter.frmMostrar.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\_02_DataAdapter.frmPersona.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\01_DataTable\obj\x86\Debug\_02_DataAdapter.frmPrincipal.resources

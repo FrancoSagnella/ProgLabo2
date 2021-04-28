@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\obj\Debug\Ejercicio_23Monedas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\obj\Debug\Ejercicio_23Monedas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\bin\Debug\Ejercicio_23Monedas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\bin\Debug\Ejercicio_23Monedas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\obj\Debug\Ejercicio_23Monedas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_23Monedas\obj\Debug\Ejercicio_23Monedas.pdb

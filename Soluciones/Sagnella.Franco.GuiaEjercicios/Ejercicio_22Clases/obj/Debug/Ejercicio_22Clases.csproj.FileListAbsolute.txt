@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\bin\Debug\Ejercicio_22Clases.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\bin\Debug\Ejercicio_22Clases.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\obj\Debug\Ejercicio_22Clases.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\obj\Debug\Ejercicio_22Clases.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\obj\Debug\Ejercicio_22Clases.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22Clases\obj\Debug\Ejercicio_22Clases.pdb

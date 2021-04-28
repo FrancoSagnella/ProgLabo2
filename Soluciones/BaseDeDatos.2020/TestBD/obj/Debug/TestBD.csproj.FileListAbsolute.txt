@@ -1,0 +1,7 @@
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\bin\Debug\TestBD.dll.config
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\bin\Debug\TestBD.dll
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\bin\Debug\TestBD.pdb
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\obj\Debug\TestBD.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\obj\Debug\TestBD.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\obj\Debug\TestBD.dll
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\TestBD\obj\Debug\TestBD.pdb

@@ -1,0 +1,7 @@
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Segundo.Parcial_2019 (vacio para practicar)\Entidades\bin\Debug\Entidades.dll.config

@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\bin\Debug\Ejercicio_21ConsolaDePruebas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\bin\Debug\Ejercicio_21ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\bin\Debug\Ejercicio_21ConsolaDePruebas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\bin\Debug\Ejercicio_21Clases.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\bin\Debug\Ejercicio_21Clases.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\obj\Debug\Ejercicio_21ConsolaDePruebas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\obj\Debug\Ejercicio_21ConsolaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\obj\Debug\Ejercicio_21ConsolaDePruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\obj\Debug\Ejercicio_21ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_21ConsolaDePruebas\obj\Debug\Ejercicio_21ConsolaDePruebas.pdb

@@ -1,0 +1,7 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Eventos.Conexion.Estatica.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Conexion.Estatica\obj\x86\Debug\Eventos.Conexion.Estatica.pdb

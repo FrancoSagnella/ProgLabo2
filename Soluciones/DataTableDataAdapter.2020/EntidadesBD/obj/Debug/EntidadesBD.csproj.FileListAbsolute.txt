@@ -1,0 +1,21 @@
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\bin\Debug\EntidadesBD.dll.config
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\bin\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\bin\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\obj\Debug\EntidadesBD.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\obj\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\EntidadesBD\obj\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.dll.config
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.dll.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\bin\Debug\EntidadesBD.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DataTableDataAdapter.2020\EntidadesBD\obj\Debug\EntidadesBD.pdb

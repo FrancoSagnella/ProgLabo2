@@ -1,0 +1,7 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\bin\Debug\Clase 4 sobrecargas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\bin\Debug\Clase 4 sobrecargas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\bin\Debug\Clase 4 sobrecargas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\obj\Debug\Clase 4 sobrecargas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\obj\Debug\Clase 4 sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\obj\Debug\Clase 4 sobrecargas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 4 sobrecargas\obj\Debug\Clase 4 sobrecargas.pdb

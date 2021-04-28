@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\bin\Debug\Modelo-Segundo-Parcial.exe.config
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\bin\Debug\Modelo-Segundo-Parcial.exe
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\bin\Debug\Modelo-Segundo-Parcial.pdb
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo_Segundo_Parcial.FormSPModelo.resources
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo_Segundo_Parcial.Properties.Resources.resources
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.csproj.CopyComplete
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.exe
+C:\Users\Franco\Desktop\Modelo-Segundo-Parcial\Modelo-Segundo-Parcial\obj\Debug\Modelo-Segundo-Parcial.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloFinancieros", "ModeloFinancieros\ModeloFinancieros.csproj", "{0EAFFF38-2B30-495C-B1E1-578510AD68F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaPruebas", "ConsolaPruebas\ConsolaPruebas.csproj", "{A3BE5A14-5262-4825-A092-5E1D095D1BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAFFF38-2B30-495C-B1E1-578510AD68F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAFFF38-2B30-495C-B1E1-578510AD68F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAFFF38-2B30-495C-B1E1-578510AD68F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAFFF38-2B30-495C-B1E1-578510AD68F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BE5A14-5262-4825-A092-5E1D095D1BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BE5A14-5262-4825-A092-5E1D095D1BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BE5A14-5262-4825-A092-5E1D095D1BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BE5A14-5262-4825-A092-5E1D095D1BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6BB83C-9B74-4306-BC22-289514F7973E}
+	EndGlobalSection
+EndGlobal

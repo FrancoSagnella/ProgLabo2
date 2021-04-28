@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\bin\Debug\Delegados.Consola.exe.config
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\bin\Debug\Delegados.Consola.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\bin\Debug\Delegados.Consola.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\obj\x86\Debug\Delegados.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\obj\x86\Debug\Delegados.Consola.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Delegados.Consola\obj\x86\Debug\Delegados.Consola.pdb

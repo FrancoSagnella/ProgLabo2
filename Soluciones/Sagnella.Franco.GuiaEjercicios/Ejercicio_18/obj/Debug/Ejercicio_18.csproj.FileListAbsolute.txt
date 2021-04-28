@@ -1,0 +1,2 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_18\obj\Debug\Ejercicio_18.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_18\obj\Debug\Ejercicio_18.csproj.CoreCompileInputs.cache

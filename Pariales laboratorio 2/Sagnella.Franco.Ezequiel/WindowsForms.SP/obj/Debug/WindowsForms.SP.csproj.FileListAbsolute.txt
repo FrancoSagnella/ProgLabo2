@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.exe
+C:\Users\Franco\Desktop\Sagnella.Franco.Ezequiel\WindowsForms.SP\obj\Debug\WindowsForms.SP.pdb

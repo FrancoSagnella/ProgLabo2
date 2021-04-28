@@ -1,0 +1,11 @@
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\ConsolaTestBD.exe.config
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\ConsolaTestBD.exe
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\ConsolaTestBD.pdb
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\TestBD.dll
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\TestBD.pdb
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\bin\Debug\TestBD.dll.config
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\obj\Debug\ConsolaTestBD.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\obj\Debug\ConsolaTestBD.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\obj\Debug\ConsolaTestBD.csproj.CopyComplete
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\obj\Debug\ConsolaTestBD.exe
+C:\Users\Maxi\source\repos\BaseDeDatos.2020\ConsolaTestBD\obj\Debug\ConsolaTestBD.pdb

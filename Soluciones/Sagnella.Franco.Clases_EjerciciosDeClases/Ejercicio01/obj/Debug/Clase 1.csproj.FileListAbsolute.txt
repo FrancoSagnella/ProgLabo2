@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\obj\Debug\Clase 1.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\obj\Debug\Clase 1.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\obj\Debug\Clase 1.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Ejercicio01\obj\Debug\Ejercicio01.pdb

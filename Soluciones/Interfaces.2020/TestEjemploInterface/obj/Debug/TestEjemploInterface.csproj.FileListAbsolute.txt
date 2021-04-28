@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\bin\Debug\TestEjemploInterface.exe.config
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\bin\Debug\TestEjemploInterface.exe
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\bin\Debug\TestEjemploInterface.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\bin\Debug\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\bin\Debug\Interfaces.Ejemplo.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\obj\Debug\TestEjemploInterface.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\obj\Debug\TestEjemploInterface.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\obj\Debug\TestEjemploInterface.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\obj\Debug\TestEjemploInterface.exe
+C:\Users\Maxi\source\repos\Interfaces.2020\TestEjemploInterface\obj\Debug\TestEjemploInterface.pdb

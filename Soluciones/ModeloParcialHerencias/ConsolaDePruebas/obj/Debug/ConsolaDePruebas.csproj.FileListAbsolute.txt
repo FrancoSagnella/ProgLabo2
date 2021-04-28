@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloParcialHerencias\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

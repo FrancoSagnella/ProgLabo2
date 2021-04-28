@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Modelo Parcial Hasta Colecciones\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

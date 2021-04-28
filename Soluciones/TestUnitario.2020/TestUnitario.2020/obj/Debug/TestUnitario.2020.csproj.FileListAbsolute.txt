@@ -1,0 +1,38 @@
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\TestUnitario.2020.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\TestUnitario.2020.pdb
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csproj.CopyComplete
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\TestUnitario.2020.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\TestUnitario.2020.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TestUnitario.2020\TestUnitario.2020\obj\Debug\TestUnitario.2020.pdb

@@ -1,0 +1,9 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\bin\Debug\Ejercicio_22ConsolaPruebas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\bin\Debug\Ejercicio_22ConsolaPruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\bin\Debug\Ejercicio_22ConsolaPruebas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\bin\Debug\Ejercicio_22Clases.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\bin\Debug\Ejercicio_22Clases.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\obj\Debug\Ejercicio_22ConsolaPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\obj\Debug\Ejercicio_22ConsolaPruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\obj\Debug\Ejercicio_22ConsolaPruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.GuiaEjercicios\Ejercicio_22ConsolaPruebas\obj\Debug\Ejercicio_22ConsolaPruebas.pdb

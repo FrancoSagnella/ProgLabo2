@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\bin\Debug\Consola parte3.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\bin\Debug\Consola parte3.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\bin\Debug\Consola parte3.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\obj\Debug\Consola parte3.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\obj\Debug\Consola parte3.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\obj\Debug\Consola parte3.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\obj\Debug\Consola parte3.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\TP Genericas\Consola parte3\obj\Debug\Consola parte3.pdb

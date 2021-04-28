@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\bin\Debug\Clase 7 Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\bin\Debug\Clase 7 Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\obj\Debug\Clase 7 Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\obj\Debug\Clase 7 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\obj\Debug\Clase 7 Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\Clase 7 Entidades\obj\Debug\Clase 7 Entidades.pdb

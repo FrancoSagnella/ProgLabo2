@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\bin\Debug\Consola.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\bin\Debug\Consola.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\bin\Debug\Consola.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\obj\Debug\Consola.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Practica parcial una semana antes\Consola\obj\Debug\Consola.pdb

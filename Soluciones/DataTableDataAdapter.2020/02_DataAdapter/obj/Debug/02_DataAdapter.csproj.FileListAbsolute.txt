@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\02_DataAdapter.exe.config
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\02_DataAdapter.exe
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\02_DataAdapter.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\EntidadesBD.dll
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\EntidadesBD.pdb
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\bin\Debug\EntidadesBD.dll.config
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\_02_DataAdapter.FrmPersona.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\_02_DataAdapter.FrmPrincipal.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\_02_DataAdapter.Properties.Resources.resources
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.csproj.CopyComplete
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.exe
+C:\Users\Maxi\source\repos\DataTableDataAdapter.2020\02_DataAdapter\obj\Debug\02_DataAdapter.pdb

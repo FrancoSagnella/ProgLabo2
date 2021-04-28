@@ -1,0 +1,37 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\bin\Debug\Eventos.Consola3.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\bin\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\bin\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\bin\Debug\Eventos.Consola3.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe.config
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\bin\Debug\Eventos.Consola3.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\bin\Debug\Eventos.Consola3.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\bin\Debug\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\bin\Debug\Eventos.Entidades.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.csproj.CopyComplete
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Consola3\obj\x86\Debug\Eventos.Consola3.pdb

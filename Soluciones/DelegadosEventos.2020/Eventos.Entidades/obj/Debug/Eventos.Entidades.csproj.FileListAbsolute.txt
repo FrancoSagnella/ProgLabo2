@@ -1,0 +1,5 @@
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Entidades\bin\Debug\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Entidades\bin\Debug\Eventos.Entidades.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Entidades\obj\Debug\Eventos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Entidades\obj\Debug\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.Entidades\obj\Debug\Eventos.Entidades.pdb

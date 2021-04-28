@@ -1,0 +1,51 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.frmEmpleados.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.PROGIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.frmEmpleados.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_2\Eventos.WindowsForm\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_22\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_22\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.frmEmpleados.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03_11\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.frmEmpleados.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_1\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe.config
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.frmEmpleados.resources
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.Properties.Resources.resources
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csproj.CopyComplete
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm\obj\x86\Debug\Eventos.WindowsForm.csprojAssemblyReference.cache

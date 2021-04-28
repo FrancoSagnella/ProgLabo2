@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\bin\Debug\07_Binario.exe.config
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\bin\Debug\07_Binario.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\bin\Debug\07_Binario.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\obj\Debug\07_Binario.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\obj\Debug\07_Binario.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\07_Binario\obj\Debug\07_Binario.pdb

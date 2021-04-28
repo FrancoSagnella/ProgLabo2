@@ -1,0 +1,22 @@
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.exe.config
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.exe
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.pdb
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Form1.resources
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.exe
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.pdb
+C:\Users\Maxi\source\repos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Form2.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\bin\Debug\Threads.WindowsForms.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Form1.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Form2.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.Properties.Resources.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Clase hilos\Threads.2020\Threads.WindowsForms\obj\Debug\Threads.WindowsForms.pdb

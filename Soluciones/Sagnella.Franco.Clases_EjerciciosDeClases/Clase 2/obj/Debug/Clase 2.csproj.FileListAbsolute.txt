@@ -1,0 +1,7 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\obj\Debug\Clase 2.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\obj\Debug\Clase 2.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\Clase 2\obj\Debug\Clase 2.pdb

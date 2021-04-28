@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\bin\Debug\05_Xml.exe.config
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\bin\Debug\05_Xml.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\bin\Debug\05_Xml.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\obj\Debug\05_Xml.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\obj\Debug\05_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\obj\Debug\05_Xml.csproj.CopyComplete
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\obj\Debug\05_Xml.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\05_Xml\obj\Debug\05_Xml.pdb

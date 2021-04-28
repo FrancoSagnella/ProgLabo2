@@ -1,0 +1,44 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.frmManejadores.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.frmManejadores.resources
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.Properties.Resources.resources
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe.config
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.frmManejadores.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.Properties.Resources.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe.config
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.frmManejadores.resources
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.Properties.Resources.resources
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Maxi\source\repos\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\bin\Debug\Eventos.WindowsForm.Manejadores2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.frmManejadores.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.Properties.Resources.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\DelegadosEventos.2020\Eventos.WindowsForm.Manejadores2\obj\x86\Debug\Eventos.WindowsForm.Manejadores2.pdb

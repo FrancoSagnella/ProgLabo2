@@ -1,0 +1,7 @@
+C:\Users\Maxi\source\repos\Excepciones.2020\01\bin\Debug\01.exe.config
+C:\Users\Maxi\source\repos\Excepciones.2020\01\bin\Debug\01.exe
+C:\Users\Maxi\source\repos\Excepciones.2020\01\bin\Debug\01.pdb
+C:\Users\Maxi\source\repos\Excepciones.2020\01\obj\Debug\01.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Excepciones.2020\01\obj\Debug\01.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Excepciones.2020\01\obj\Debug\01.exe
+C:\Users\Maxi\source\repos\Excepciones.2020\01\obj\Debug\01.pdb

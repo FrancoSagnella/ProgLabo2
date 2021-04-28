@@ -1,0 +1,14 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\bin\Debug\EjercicioClase2.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\bin\Debug\EjercicioClase2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\bin\Debug\EjercicioClase2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\obj\Debug\Clase2Ejercicios.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\obj\Debug\Clase2Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\obj\Debug\EjercicioClase2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\clase 1\Sagnella.Franco\EjercicioClase2\obj\Debug\EjercicioClase2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\bin\Debug\EjercicioClase2.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\bin\Debug\EjercicioClase2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\bin\Debug\EjercicioClase2.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\obj\Debug\Clase2Ejercicios.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\obj\Debug\Clase2Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\obj\Debug\EjercicioClase2.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\Sagnella.Franco.Clases_EjerciciosDeClases\EjercicioClase2\obj\Debug\EjercicioClase2.pdb

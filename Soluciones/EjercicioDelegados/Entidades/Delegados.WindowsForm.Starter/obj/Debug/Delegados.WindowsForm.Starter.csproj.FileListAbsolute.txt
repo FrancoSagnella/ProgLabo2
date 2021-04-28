@@ -1,0 +1,39 @@
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmDatos.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmPrincipal.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmTestDelegados.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.Properties.Resources.resources
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe.config
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.pdb
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.pdb
+C:\Users\Maxi\Desktop\2020_1_C\C_SHARP\clase22\Delegados.WindowsForm2015\Delegados.WindowsForm2015\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe.config
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.pdb
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmDatos.resources
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmPrincipal.resources
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmTestDelegados.resources
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Maxi\source\repos\Delegados.WindowsForm2020\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\bin\Debug\Delegados.WindowsForm.Starter.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmDatos.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmPrincipal.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.frmTestDelegados.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.Properties.Resources.resources
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\EjercicioDelegados\Entidades\Delegados.WindowsForm.Starter\obj\Debug\Delegados.WindowsForm.Starter.pdb

@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\bin\Debug\TestIndexadoresConsola.exe.config
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\bin\Debug\TestIndexadoresConsola.exe
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\bin\Debug\TestIndexadoresConsola.pdb
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\obj\Debug\TestIndexadoresConsola.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\obj\Debug\TestIndexadoresConsola.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\obj\Debug\TestIndexadoresConsola.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\obj\Debug\TestIndexadoresConsola.exe
+C:\Users\Maxi\source\repos\Indexadores.2020\TestIndexadoresConsola\obj\Debug\TestIndexadoresConsola.pdb

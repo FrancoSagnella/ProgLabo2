@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\bin\Debug\TestUnitarios.ClassLibrary.dll
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\bin\Debug\TestUnitarios.ClassLibrary.pdb
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\obj\Debug\TestUnitarios.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\obj\Debug\TestUnitarios.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\obj\Debug\TestUnitarios.ClassLibrary.dll
+C:\Users\Maxi\source\repos\TestUnitarios.Resolver.2020\TestUnitarios.ClassLibrary\obj\Debug\TestUnitarios.ClassLibrary.pdb

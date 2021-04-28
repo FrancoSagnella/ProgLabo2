@@ -1,0 +1,7 @@
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\bin\Debug\01_ArchivoDeTexto.exe.config
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\bin\Debug\01_ArchivoDeTexto.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\bin\Debug\01_ArchivoDeTexto.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\obj\Debug\01_ArchivoDeTexto.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\obj\Debug\01_ArchivoDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\obj\Debug\01_ArchivoDeTexto.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\01_ArchivoDeTexto\obj\Debug\01_ArchivoDeTexto.pdb

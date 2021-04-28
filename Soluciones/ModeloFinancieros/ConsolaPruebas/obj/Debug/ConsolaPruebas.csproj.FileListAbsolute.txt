@@ -1,0 +1,10 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\obj\Debug\ConsolaPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\bin\Debug\ConsolaPruebas.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\bin\Debug\ConsolaPruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\bin\Debug\ConsolaPruebas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\bin\Debug\ModeloFinancieros.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\bin\Debug\ModeloFinancieros.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\obj\Debug\ConsolaPruebas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\obj\Debug\ConsolaPruebas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\obj\Debug\ConsolaPruebas.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ConsolaPruebas\obj\Debug\ConsolaPruebas.pdb

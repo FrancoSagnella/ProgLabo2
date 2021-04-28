@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Indexadores.2020\Entidades\obj\Debug\Entidades.pdb

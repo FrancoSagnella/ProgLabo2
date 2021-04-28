@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\bin\Debug\Interfaces.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\bin\Debug\Interfaces.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Maxi\source\repos\Interfaces.2020\TestConsola\obj\Debug\TestConsola.pdb

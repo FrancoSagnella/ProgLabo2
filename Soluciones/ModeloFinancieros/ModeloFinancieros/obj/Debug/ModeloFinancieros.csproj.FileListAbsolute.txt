@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\obj\Debug\ModeloFinancieros.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\obj\Debug\ModeloFinancieros.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\bin\Debug\ModeloFinancieros.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\bin\Debug\ModeloFinancieros.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\obj\Debug\ModeloFinancieros.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ModeloFinancieros\ModeloFinancieros\obj\Debug\ModeloFinancieros.pdb

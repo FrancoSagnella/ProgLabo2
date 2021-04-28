@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\bin\Debug\FileDialog.2020.exe.config
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\bin\Debug\FileDialog.2020.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\bin\Debug\FileDialog.2020.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog.2020.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog._2020.Form1.resources
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog._2020.Properties.Resources.resources
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog.2020.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog.2020.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog.2020.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\FileDialog.2020\obj\Debug\FileDialog.2020.pdb

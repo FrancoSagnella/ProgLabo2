@@ -1,0 +1,20 @@
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.exe.config
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csproj.CopyComplete
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.exe
+C:\Users\Maxi\source\repos\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\bin\Debug\06_Xml.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\ArchivosSerializacion.2020\06_Xml\obj\Debug\06_Xml.pdb

@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.csprojResolveAssemblyReference.cache
